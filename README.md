@@ -1,0 +1,1 @@
+OCR tool made using FastAPI and Tesseract
